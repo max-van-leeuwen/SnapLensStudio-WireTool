@@ -4,7 +4,9 @@ by Max van Leeuwen
 
 ## [Download WireTool from Gumroad!](https://maxvanleeuwen.gumroad.com/l/wiretool)  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k_39vDHRVzs?si=GIwvPDf0kO6t1WHD&amp;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe>
+
+<br><i>(Click for video)</i><br>
+[![WireTool](https://img.youtube.com/vi/k_39vDHRVzs/0.jpg)](https://www.youtube.com/watch?v=k_39vDHRVzs)
 
 <br>
 
