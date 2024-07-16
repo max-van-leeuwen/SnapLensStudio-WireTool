@@ -6,7 +6,7 @@ by Max van Leeuwen
 
 
 [![WireTool](https://img.youtube.com/vi/k_39vDHRVzs/0.jpg)](https://www.youtube.com/watch?v=k_39vDHRVzs)
-<br><i>(Click for video)</i><br>
+<br><i>(Click for video! All examples shown are included in the download)</i><br>
 
 <br><br>
 
