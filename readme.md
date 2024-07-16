@@ -5,15 +5,16 @@ by Max van Leeuwen
 ## [Download WireTool from Gumroad!](https://maxvanleeuwen.gumroad.com/l/wiretool)  
 
 
-<br><i>(Click for video)</i><br>
 [![WireTool](https://img.youtube.com/vi/k_39vDHRVzs/0.jpg)](https://www.youtube.com/watch?v=k_39vDHRVzs)
+<br><i>(Click for video)</i><br>
 
+<br><br>
+
+WireTool creates continuous 3D geometry, based on given world positions.
+<br>Useful for cylindrical geometry, animated trails, special effects and other unique visuals!
 <br>
-
-WireTool creates a continuous 3D wire based on a collection of points. It's useful for static 'tube' meshes or animated trails. Simply place this script in your scene and from any other script,<br>call `new WireTool.Create()`.<br>See the list of all possible customizations below.
-
-And check out all the examples that come with the download!
-
+Check out all the examples that come with the download!
+<br><br>
 To keep it as performance-friendly as possible (especially when rendering lots of wires simultaneously), see the 'Tips & Tricks' section! There are also some helpful notes on working with shaders there.
 
 <br>
