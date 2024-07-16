@@ -17,7 +17,13 @@ Check out all the examples that come with the download!
 <br><br>
 To keep it as performance-friendly as possible (especially when rendering lots of wires simultaneously), see the 'Tips & Tricks' section! There are also some helpful notes on working with shaders there.
 
-<br>
+<br><br>
+
+## Inspector Panel Preview
+
+<img src="https://github.com/max-van-leeuwen/SnapLensStudio-WireTool/blob/main/WireTool%20Inspector.jpg" width="200">
+
+<br><br>
 
 ## Quickstart
 
