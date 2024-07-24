@@ -5,7 +5,7 @@ by Max van Leeuwen
 ## [Download WireTool from Gumroad!](https://maxvanleeuwen.gumroad.com/l/wiretool)  
 
 
-[![WireTool](https://img.youtube.com/vi/k_39vDHRVzs/0.jpg)](https://www.youtube.com/watch?v=k_39vDHRVzs)
+[![WireTool](https://img.youtube.com/vi/JYIvN8SGf5s/0.jpg)](https://www.youtube.com/watch?v=JYIvN8SGf5s)
 <br><i>(Click for video! All examples shown are included in the download)</i><br>
 
 <br><br>
