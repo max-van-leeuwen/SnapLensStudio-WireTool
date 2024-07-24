@@ -11,7 +11,7 @@ by Max van Leeuwen
 <br><br>
 
 WireTool creates continuous 3D geometry, based on given world positions.
-<br>Useful for trails, streaks, lines, special effects and other unique visuals!
+<br>Useful for trails, streaks, lines and other unique visuals!
 <br>
 Check out all the examples that come with the download!
 <br><br>
